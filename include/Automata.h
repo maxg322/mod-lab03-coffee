@@ -1,3 +1,5 @@
+// Copyright 2024 UNN-IASR
+
 #pragma once
 #include <string>
 #include <map>
