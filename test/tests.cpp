@@ -2,6 +2,7 @@
 
 #include <gtest/gtest.h>
 #include "Automata.h"
+#include <string>
 
 TEST(InitialState, CheckOffState) {
     std::string state = "OFF";
