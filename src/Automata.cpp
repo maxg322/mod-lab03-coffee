@@ -1,6 +1,7 @@
 // Copyright 2024 UNN-IASR
 
 #include "Automata.h"
+#include <string>
 
 Automata::Automata(std::string menu[], int prices[], int size) {
     this->menu = menu;
