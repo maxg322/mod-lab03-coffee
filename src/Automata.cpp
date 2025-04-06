@@ -1,3 +1,5 @@
+// Copyright 2024 UNN-IASR
+
 #include "Automata.h"
 
 Automata::Automata(std::string menu[], int prices[], int size) {
